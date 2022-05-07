@@ -24,6 +24,7 @@ doi = {10.1109/COMPSAC.2019.10235}
 * numpy
 * pandas
 * pickle
+* gensim
 
 # Data download instruction
 
