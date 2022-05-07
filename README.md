@@ -32,3 +32,4 @@ Follow the instructions at https://eicu-crd.mit.edu/gettingstarted/access/ to ge
 
 
 # Table of results
+![plot](results.png)
