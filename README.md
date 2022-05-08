@@ -1,7 +1,8 @@
 # DL4H-Project
 Semester project for the course Deep Learning for Healthcare (CS598) of UIUC (Spring 2022).
 
-# Citation to the original paper:
+# Original paper
+## Citation
 @inproceedings{bidim,
 
 author = {Wang, Weijing and Guo, Chenkai and Xu, Jing and Liu, Ao},
@@ -17,6 +18,8 @@ title = {Bi-Dimensional Representation of Patients for Diagnosis Prediction},
 doi = {10.1109/COMPSAC.2019.10235}
 
 }
+## Repository
+Not available
 
 # Dependencies
 * python 3.6.9
@@ -26,10 +29,9 @@ doi = {10.1109/COMPSAC.2019.10235}
 * pickle
 * gensim
 
-# Data download instruction
+# Data Availability
 
 Follow the instructions at https://eicu-crd.mit.edu/gettingstarted/access/ to get access to the MIMIC-III Clinical Database.
-
 
 # Table of results
 ![plot](results.png)
