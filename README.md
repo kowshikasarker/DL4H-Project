@@ -34,4 +34,4 @@ Not available
 Follow the instructions at https://eicu-crd.mit.edu/gettingstarted/access/ to get access to the MIMIC-III Clinical Database.
 
 # results
-![plot](results.png)
+![plot](results1.png)
