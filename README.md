@@ -37,6 +37,9 @@ Follow the instructions at https://eicu-crd.mit.edu/gettingstarted/access/ to ge
 
 <img src="model.png" width="500"/>
 
-# results
+# Result
 
 <img src="results1.png" width="400"/>
+
+# Implementation
+Preprocessing:  
