@@ -42,4 +42,6 @@ Follow the instructions at https://eicu-crd.mit.edu/gettingstarted/access/ to ge
 <img src="results1.png" width="400"/>
 
 # Implementation
-Preprocessing:  
+Preprocessing: src/data_prep_1.py and src/data_prep_2.py
+Architecture, training and evaluation: src/patient2vec.py and src/patient2vec-w2v.py
+Ablation study: src/symptom2vec.py and src/treatment2vec.py
