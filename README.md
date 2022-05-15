@@ -35,11 +35,11 @@ Follow the instructions at https://eicu-crd.mit.edu/gettingstarted/access/ to ge
 
 # Model
 
-<img src="model.png" width="500"/>
+<img src="img/model.png" width="500"/>
 
 # Result
 
-<img src="results1.png" width="400"/>
+<img src="img/result.png" width="400"/>
 
 # Implementation
 Preprocessing: ```src/data_prep_1.py and src/data_prep_2.py```
